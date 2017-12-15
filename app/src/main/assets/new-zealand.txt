@@ -1,0 +1,10 @@
+Auckland,145
+Wellington,40
+Christchurch,38
+Hamilton,22
+Tauranga,13
+Napier-Hastings,13
+Dunedin,12
+Palmerston North,8
+Nelson,6
+Rotorua,6

@@ -1,0 +1,10 @@
+São Paulo,1190
+Rio de Janeiro,645
+Salvador,290
+Brasília,285
+Fortaleza,257
+Belo Horizonte,249
+Manaus,202
+Curitiba,186
+Recife,161
+Porto Alegre,147

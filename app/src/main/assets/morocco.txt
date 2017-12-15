@@ -1,0 +1,10 @@
+Casablanca,336
+Fès,111
+Tangier,95
+Marrakech,93
+Salé,89
+Meknès,63
+Rabat,58
+Kenitra,57
+Tetouan,56
+Beni Mellal,45

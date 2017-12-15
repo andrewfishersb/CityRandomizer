@@ -1,0 +1,10 @@
+Istanbul,1403
+Ankara,459
+İzmir,285
+Bursa,185
+Adana,156
+Gaziantep,150
+Konya,100
+Antalya,96
+Kayseri,91
+Mersin,84

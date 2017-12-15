@@ -1,0 +1,10 @@
+Copenhagen,1180
+Aarhus,240
+Odense,165
+Aalborg,100
+Frederiksberg,95
+Esbjerg,70
+Gentofte,70
+Gladsaxe,65
+Randers,60
+Kolding,55

@@ -1,0 +1,10 @@
+Lisbon,55
+Sintra,38
+Vila Nova de Gaia,30
+Porto,24
+Loures,21
+Cascais,21
+Braga,18
+Amadora,18
+Matosinhos,17
+Funchal,11

@@ -1,0 +1,10 @@
+Zurich,40
+Geneva,20
+Basel,18
+Lausanne,14
+Bern,13
+Winterthur,11
+Lucerne,8
+Saint Gallen,8
+Lugano,6
+Biel/Bienne,5

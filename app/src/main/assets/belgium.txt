@@ -1,0 +1,10 @@
+Antwerp,51
+Ghent,25
+Charleroi,20
+Liège,20
+Brussels-City,17
+Schaarbeek,13
+Bruges,12
+Anderlecht,11
+Namur,11
+Leuven,10

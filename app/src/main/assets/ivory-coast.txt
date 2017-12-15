@@ -1,0 +1,10 @@
+Abidjan,4680
+Abobo,110
+Bouaké,57
+Daloa,22
+San-Pédro,20
+Yamoussoukro,19
+Korhogo,17
+Man,14
+Divo,13
+Gagnoa,12

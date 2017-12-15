@@ -1,0 +1,25 @@
+Madrid,316
+Barcelona,160
+Valencia,79
+Seville,70
+Zaragoza,67
+Málaga,57
+Murcia,44
+Palma,44
+Las Palmas,38
+Bilbao,35
+Alicante,33
+Córdoba,33
+Valladolid,31
+Vigo,29
+Gijón,28
+L'Hospitalet,25
+La Coruña,24
+Vitoria-Gasteiz,24
+Granada,24
+Elche,23
+Oviedo,22
+Badalona,22
+Cartagena,22
+Terrassa,22
+Jerez,21

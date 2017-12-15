@@ -1,0 +1,25 @@
+Rome,262
+Milan,124
+Naples,96
+Turin,87
+Palermo,66
+Genoa,59
+Bologna,37
+Florence,36
+Bari,32
+Catania,29
+Venice,26
+Verona,26
+Messina,24
+Padua,21
+Trieste,20
+Taranto,20
+Brescia,19
+Prato,18
+Reggio Calabria,18
+Modena,18
+Parma,18
+Perugia,16
+Reggio Emilia,16
+Livorno,16
+Ravenna,15

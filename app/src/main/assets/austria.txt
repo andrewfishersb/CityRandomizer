@@ -1,0 +1,10 @@
+Vienna,179
+Graz,27
+Linz,20
+Salzburg,15
+Innsbruck,13
+Klagenfurt,10
+Villach,6
+Wels,6
+Sankt Pölten,5
+Dornbirn,5

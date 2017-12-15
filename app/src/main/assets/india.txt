@@ -1,0 +1,10 @@
+Mumbai,1244
+Delhi,1103
+Bangalore,844
+Hyderbad,699
+Ahmedabad,558
+Chennai,465
+Kolkata,450
+Surat,447
+Pune,312
+Jaipur,305

@@ -1,0 +1,10 @@
+Helsinki,63
+Espoo,27
+Tampere,22
+Vantaa,21
+Oulu,20
+Turku,18
+Jyväskylä,14
+Kuopio,11
+Lahti,10
+Kouvola,9

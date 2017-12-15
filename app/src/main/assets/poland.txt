@@ -1,0 +1,10 @@
+Warsaw,175
+Kraków,77
+Łódź,70
+Wrocław,64
+Poznań,54
+Gdańsk,46
+Szczecin,40
+Bydgoszcz,35
+Lublin,34
+Katowice,30

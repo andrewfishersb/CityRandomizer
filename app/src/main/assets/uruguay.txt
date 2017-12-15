@@ -1,0 +1,10 @@
+Montevideo,132
+Salto,10
+Ciudad de la Costa,10
+Paysandú,8
+Las Piedras,7
+Rivera,6
+Maldonado,6
+Tacuarembó,5
+Melo,5
+Mercedes,4

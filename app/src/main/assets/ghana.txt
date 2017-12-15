@@ -1,0 +1,10 @@
+Accra,229
+Kumasi,207
+Tamale,56
+Sekondi-Takoradi,44
+Ashiaman,30
+Sunyani,25
+Cape Coast,23
+Obuasi,18
+Teshie,18
+Tema,16

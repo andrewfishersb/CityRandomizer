@@ -1,0 +1,10 @@
+Santa Cruz de la Sierra,144
+El Alto,84
+La Paz,76
+Cochabamba,63
+Oruro,26
+Sucre,24
+Tarija,18
+Potosí,17
+Sacaba,15
+Quillacollo,12

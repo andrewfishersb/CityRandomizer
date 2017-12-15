@@ -1,0 +1,10 @@
+Bucharest,188
+Cluj-Napoca,32
+Timișoara,32
+Iași,29
+Constanța,28
+Craiova,27
+Brașov,25
+Galați,25
+Ploiești,21
+Oradea,20

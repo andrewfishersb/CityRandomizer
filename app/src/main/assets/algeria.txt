@@ -1,0 +1,10 @@
+Alger,237
+Oran,80
+Constantine,45
+Annaba,34
+Blida,33
+Batna,29
+Djelfa,27
+Sétif,25
+Sidi Bel Abbès,21
+Biskra,20

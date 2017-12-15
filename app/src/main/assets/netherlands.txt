@@ -1,0 +1,10 @@
+Amsterdam,82
+Rotterdam,62
+The Hague,51
+Utrecht,33
+Eindhoven,22
+Tilburg,21
+Groningen,20
+Almere,20
+Breda,18
+Nijmegen,17

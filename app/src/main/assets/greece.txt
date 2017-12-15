@@ -1,0 +1,10 @@
+Athens,309
+Thessaloniki,79
+Patras,21
+Heraklion,17
+Larissa,16
+Volos,14
+Rhodes,12
+Ioannina,11
+Chania,11
+Agrinio,11

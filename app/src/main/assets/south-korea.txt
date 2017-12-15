@@ -1,0 +1,10 @@
+Seoul,990
+Busan,345
+Incheon,289
+Daegu,247
+Daejeon,154
+Gwangju,150
+Suwon,119
+Ulsan,117
+Changwon,106
+Goyang,99

@@ -1,0 +1,10 @@
+Riyadh,650
+Jeddah,398
+Mecca,192
+Medina,127
+Al-Ahsa,114
+Ta'if,111
+Dammam,98
+Buraidah,66
+Khobar,63
+Tabuk,61

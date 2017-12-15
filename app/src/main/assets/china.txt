@@ -1,0 +1,10 @@
+Shanghai,22
+Beijing,19
+Tianjin,11
+Guangzhou,11
+Shenzhen,10
+Dongguan,8
+Taipei,8
+Chengdu,7
+Hong Kong,7
+Hangzhou,7

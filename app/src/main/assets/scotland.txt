@@ -1,0 +1,10 @@
+Glasgow,60
+Edinburgh,46
+Aberdeen,20
+Dundee,15
+Paisley,8
+East Kilbridge,7
+Livingston,6
+Hamilton,5
+Cumbernauld,5
+Dunfermline,5

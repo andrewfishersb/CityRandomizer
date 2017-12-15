@@ -1,0 +1,10 @@
+Dublin,111
+Cork,20
+Limerick,9
+Galway,8
+Waterford,5
+Drogheda,4
+Dundalk,4
+Swords,4
+Bray,3
+Navan,3

@@ -1,0 +1,10 @@
+Lagos,900
+Kano,363
+Ibadan,357
+Kaduna,158
+Port Harcourt,115
+Benin City,113
+Maiduguri,111
+Zaria,98
+Aba,90
+Jos,82

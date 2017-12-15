@@ -1,0 +1,10 @@
+Bogotá,684
+Medellín,221
+Cali,212
+Barranquilla,115
+Cartagena,89
+Cúcuta,59
+Bucaramanga,52
+Ibagué,50
+Soledad,46
+Pereira,44

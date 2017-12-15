@@ -1,0 +1,10 @@
+Buenos Aires,1347
+Córdoba,161
+Rosario,133
+Mendoza,111
+La Plata,96
+Tucumán,90
+Mar del Plata,71
+Salta,56
+Santa Fe,53
+San Juan,51

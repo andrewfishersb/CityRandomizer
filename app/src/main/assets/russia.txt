@@ -1,0 +1,10 @@
+Moscow,1150
+Saint Petersburg,488
+Novosibirsk,147
+Yekaterinburg,135
+Nizhny Novgorod,125
+Samara,116
+Omsk,115
+Kazan,114
+Chelyabinsk,113
+Rostov-on-Don,109

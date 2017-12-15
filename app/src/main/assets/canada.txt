@@ -1,0 +1,10 @@
+Toronto,261
+Montreal,165
+Calgary,110
+Ottawa,88
+Edmonton,82
+Mississauga,71
+Winnipeg,66
+Vancouver,60
+Brampton,52
+Hamilton,52

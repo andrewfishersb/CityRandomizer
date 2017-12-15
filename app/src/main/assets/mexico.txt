@@ -1,0 +1,10 @@
+Mexico City,885
+Ecatepec,165
+Guadalajara,150
+Puebla,143
+Juárez,132
+Tijuana,130
+León,124
+Zapopan,114
+Monterrey,114
+Nezahualcóyotl,110

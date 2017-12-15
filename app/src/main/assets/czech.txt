@@ -1,0 +1,10 @@
+Prague,125
+Brno,38
+Ostrava,30
+Plzeň,17
+Liberec,10
+Olomouc,10
+Ústí nad Labem,10
+České Budějovice,10
+Hradec Králové,9
+Pardubice,9

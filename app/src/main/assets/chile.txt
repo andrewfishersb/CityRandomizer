@@ -1,0 +1,10 @@
+Santiago,484
+Puente Alto,51
+Antofagasta,31
+Viña del Mar,29
+Valparaíso,28
+Talcahuano,25
+San Bernardo,25
+Temuco,24
+Iquique,23
+Concepción,21

@@ -1,0 +1,10 @@
+Douala,134
+Yaoundé,130
+Garoua,44
+Kousséri,44
+Bamenda,40
+Maroua,32
+Bafoussam,29
+Mokolo,28
+Ngaoundéré,23
+Bertoua,22

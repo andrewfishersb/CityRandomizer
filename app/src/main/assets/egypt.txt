@@ -1,0 +1,10 @@
+Cairo,1223
+Alexandria,505
+Giza,403
+Shubra El-Kheima,307
+Port Said,161
+Suez,135
+El-Mahalla El-Kubra,84
+Luxor,69
+Mansoura,67
+Tanta,56

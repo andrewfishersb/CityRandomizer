@@ -1,0 +1,10 @@
+Belfast,333
+Derry,85
+Lisburn,71
+Newtownabbey,62
+Bangor,58
+Craigavon,55
+Castlereagh,55
+Ballymena,29
+Newtownards,28
+Newry,27

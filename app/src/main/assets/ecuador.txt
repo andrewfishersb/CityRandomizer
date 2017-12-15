@@ -1,0 +1,10 @@
+Guayaquil,228
+Quito,161
+Cuenca,33
+Santo Domingo,27
+Machala,23
+Durán,23
+Manta,22
+Portoviejo,21
+Loja,17
+Ambato,16

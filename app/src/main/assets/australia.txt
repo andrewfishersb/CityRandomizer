@@ -1,0 +1,10 @@
+Sydney,432
+Melbourne,420
+Brisbane,205
+Perth,187
+Adelaide,117
+Gold Coast,60
+Canberra,43
+Newcastle,32
+Central Coast,31
+Wollongong,26

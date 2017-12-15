@@ -1,0 +1,10 @@
+Lima,987
+Arequipa,87
+Trujillo,80
+Chiclayo,60
+Iquitos,44
+Piura,44
+Cusco,43
+Chimbote,37
+Huancayo,36
+Tacna,29

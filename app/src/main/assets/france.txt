@@ -1,0 +1,25 @@
+Paris,224
+Marseille,85
+Lyon,48
+Toulouse,44
+Nice,34
+Nantes,28
+Strasbourg,27
+Montpellier,26
+Bordeaux,24
+Lille,23
+Rennes,21
+Reims,18
+Le Havre,17
+Saint-Étienne,17
+Toulon,16
+Grenoble,16
+Dijon,15
+Angers,15
+Villeurbanne,14
+Saint-Denis,14
+Le Mans,14
+Nîmes,14
+Aix-en-Provence,14
+Brest,14
+Clermont-Ferrand,14

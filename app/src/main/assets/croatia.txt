@@ -1,0 +1,10 @@
+Zagreb,790
+Split,180
+Rijeka,130
+Osijek,110
+Zadar,75
+Velika Gorica,65
+Slavonski Brod,60
+Pula,55
+Karlovac,55
+Dubrovnik,40

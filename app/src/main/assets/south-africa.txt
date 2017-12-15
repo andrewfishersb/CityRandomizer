@@ -1,0 +1,10 @@
+Cape Town,343
+Durban,312
+Johannesburg,203
+Soweto,170
+Pretoria,162
+Port Elizabeth,97
+Pietermaritzburg,75
+Benoni,61
+Tembisa,51
+East London,50

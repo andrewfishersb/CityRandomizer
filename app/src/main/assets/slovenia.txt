@@ -1,0 +1,10 @@
+Ljubljana,52
+Maribor,12
+Celje,11
+Kranj,10
+Velenje,8
+Koper,7
+Novo Mesto,6
+Ptuj,2
+Trbovlje,1
+Kamnik,1

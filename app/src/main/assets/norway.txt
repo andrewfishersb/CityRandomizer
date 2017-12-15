@@ -1,0 +1,10 @@
+Oslo,96
+Bergen,25
+Stavanger,21
+Trondheim,18
+Drammen,11
+Fredrikstad,11
+Kristiansand,6
+Tønsberg,5
+Ålesund,5
+Tromsø,3

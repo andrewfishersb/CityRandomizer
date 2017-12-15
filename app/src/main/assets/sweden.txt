@@ -1,0 +1,10 @@
+Stockholm,137
+Gothenburg,55
+Malmö,28
+Uppsala,14
+Örebro,11
+Linköping,10
+Helsingborg,10
+Jönköping,9
+Norrköping,9
+Lund,8

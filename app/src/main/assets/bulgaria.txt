@@ -1,0 +1,10 @@
+Sofia,120
+Plovdiv,34
+Varna,33
+Burgas,20
+Ruse,15
+Stara Zagora,14
+Pleven,11
+Dobrich,10
+Sliven,9
+Shumen,8

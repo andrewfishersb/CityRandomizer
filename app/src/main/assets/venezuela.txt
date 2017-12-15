@@ -1,0 +1,10 @@
+Caracas,558
+Maracaibo,416
+Valencia,259
+Barquisimeto,160
+Maracay,130
+Ciudad Guayana,95
+Barcelona,75
+Maturin,41
+Turmero,34
+Mérida,32

@@ -1,0 +1,10 @@
+Asunción,51
+Ciudad del Este,22
+San Lorenzo,20
+Luque,17
+Capiatá,15
+Lambaré,12
+Fernando de la Mora,11
+Limpio,7
+Ñemby,7
+Encarnación,7

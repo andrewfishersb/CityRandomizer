@@ -1,0 +1,44 @@
+London,
+Birmingham,110
+Leeds,77
+Sheffield,56
+Bradford,53
+Manchester,52
+Liverpool,47
+Bristol,44
+Croydon (GL),38
+Barnet (GL),37
+Ealing (GL),34
+Leicester,34
+Coventry,34
+Wigan,32
+Newham (GL),32
+Lambeth (GL),32
+Nottingham,31
+Doncaster,30
+Newcastle upon Tyne,29
+Brighton & Hove,28
+Bolton,28
+Sunderland,28
+Greenwich (GL),27
+Waltham Forest (GL),27
+Haringey (GL),27
+Plymouth,26
+Rotherham,26
+Milton Keynes,26
+Hull,26
+Wolverhampton,25
+Derby,25
+Stoke-on-Trent,25
+Southampton,24
+Barnsley,24
+Camden (GL),23
+Westminster (GL),23
+Oldham,23
+Northampton,22
+Swindon,22
+Rochdale,21
+Luton,21
+Portsmouth,21
+York,20
+Merton,20

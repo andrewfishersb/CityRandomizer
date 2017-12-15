@@ -1,0 +1,10 @@
+Tokyo,895
+Yokohama,369
+Osaka,267
+Nagoya,226
+Sapporo,191
+Kōbe,154
+Kyoto,147
+Fukuoka,146
+Kawasaki,143
+Saitama,122

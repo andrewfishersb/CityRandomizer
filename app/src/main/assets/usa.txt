@@ -1,0 +1,25 @@
+New York,849
+Los Angeles,393
+Chicago,272
+Houston,224
+Philadelphia,156
+Phoenix,154
+San Antonio,144
+San Diego,138
+Dallas,128
+San Jose,102
+Austin,91
+Jacksonville,85
+San Francisco,85
+Indianapolis,85
+Columbus,84
+Charlotte,81
+Detroit,68
+Seattle,67
+Denver,66
+Washington D.C.,66
+Memphis,66
+Boston,66
+Baltimore,62
+Oklahoma City,62
+Portland,62

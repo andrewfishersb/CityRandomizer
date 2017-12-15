@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="fisher.hometown.MainActivity">
+
+    <Button
+        android:id="@+id/northernEurope"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Northern Europe" />
+
+    <Button
+        android:id="@+id/southernEurope"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Southern Europe" />
+
+    <Button
+        android:id="@+id/centralEurope"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Central Europe" />
+
+    <Button
+        android:id="@+id/restOfEurope"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Rest Of Europe" />
+
+    <Button
+        android:id="@+id/northAmerica"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="North America" />
+
+    <Button
+        android:id="@+id/southAmerica"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="South America" />
+
+    <Button
+        android:id="@+id/africa"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Africa" />
+
+    <Button
+        android:id="@+id/asia"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Asia" />
+
+
+    <Button
+        android:id="@+id/oceania"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Oceania" />
+
+    <Button
+        android:id="@+id/other"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Other" />
+
+</LinearLayout>

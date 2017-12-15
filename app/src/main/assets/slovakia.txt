@@ -1,0 +1,10 @@
+Bratislava,46
+Košice,24
+Prešov,9
+Žilina,9
+Nitra,8
+Banská Bystrica,8
+Trnava,7
+Trenčín,6
+Martin,6
+Poprad,6

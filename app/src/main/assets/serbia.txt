@@ -1,0 +1,10 @@
+Belgrade,166
+Novi Sad,34
+Niš,26
+Kragujevac,18
+Leskovac,14
+Subotica,14
+Kruševac,13
+Kraljevo,13
+Pančevo,12
+Zrenjanin,12
