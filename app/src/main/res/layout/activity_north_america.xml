@@ -25,19 +25,18 @@
         android:text="@string/canada" />
 
     <Button
-        android:id="@+id/usa"
+        android:id="@+id/mexico"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:text="@string/united_states" />
+        android:text="@string/mexico" />
 
     <Button
-        android:id="@+id/mexico"
+        android:id="@+id/usa"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_marginBottom="16dp"
         android:layout_weight="1"
-        android:text="@string/mexico" />
-
+        android:text="@string/united_states" />
 
 </LinearLayout>

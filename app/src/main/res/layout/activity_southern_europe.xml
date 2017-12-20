@@ -17,6 +17,20 @@
         android:textSize="40sp" />
 
     <Button
+        android:id="@+id/croatia"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="croatia" />
+
+    <Button
+        android:id="@+id/greece"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="greece" />
+
+    <Button
         android:id="@+id/italy"
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -31,13 +45,6 @@
         android:text="portugal" />
 
     <Button
-        android:id="@+id/turkey"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:text="turkey" />
-
-    <Button
         android:id="@+id/spain"
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -45,18 +52,12 @@
         android:text="spain" />
 
     <Button
-        android:id="@+id/croatia"
+        android:id="@+id/turkey"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:text="croatia" />
-
-    <Button
-        android:id="@+id/greece"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:text="greece" />
+        android:layout_marginBottom="16dp"
+        android:text="turkey" />
 
 
 </LinearLayout>

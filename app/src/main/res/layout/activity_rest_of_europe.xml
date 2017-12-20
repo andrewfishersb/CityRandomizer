@@ -17,32 +17,11 @@
         android:textSize="40sp" />
 
     <Button
-        android:id="@+id/slovenia"
+        android:id="@+id/czechRepublic"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:text="slovenia" />
-
-    <Button
-        android:id="@+id/slovakia"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:text="slovakia" />
-
-    <Button
-        android:id="@+id/serbia"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:text="serbia" />
-
-    <Button
-        android:id="@+id/romania"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:text="romania" />
+        android:text="Czech Republic" />
 
     <Button
         android:id="@+id/poland"
@@ -52,16 +31,33 @@
         android:text="poland" />
 
     <Button
-        android:id="@+id/czechRepublic"
+        android:id="@+id/romania"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:text="Czech Republic"
+        android:text="romania" />
+
+    <Button
+        android:id="@+id/serbia"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="serbia" />
+
+    <Button
+        android:id="@+id/slovakia"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="slovakia" />
+
+    <Button
+        android:id="@+id/slovenia"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
         android:layout_marginBottom="16dp"
-        />
-
-
-
+        android:layout_weight="1"
+        android:text="slovenia" />
 
 
 </LinearLayout>
