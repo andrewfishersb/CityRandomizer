@@ -23,11 +23,11 @@
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/australia"
+            android:id="@+id/australiaOld"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1.0"
-            android:text="australia" />
+            android:text="@string/australia" />
 
         <Button
             android:id="@+id/belgium"
