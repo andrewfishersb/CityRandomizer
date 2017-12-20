@@ -62,7 +62,7 @@ public class RestOfEurope extends BaseActivity implements View.OnClickListener {
         }else if(v == mPoland){
             displayRandomCity(mRestCityNames,"poland.txt");
         }else if(v == mCzechRepublic){
-            displayRandomCity(mRestCityNames,"czech.txt");
+            displayRandomCity(mRestCityNames, "czech-republic.txt");
         }
     }
 }
