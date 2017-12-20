@@ -5,14 +5,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.LinkedHashMap;
-
 import butterknife.Bind;
 import butterknife.ButterKnife;
 import fisher.hometown.BaseActivity;
-import fisher.hometown.City;
 import fisher.hometown.R;
 
 public class Oceania extends BaseActivity implements View.OnClickListener {
@@ -40,25 +35,9 @@ public class Oceania extends BaseActivity implements View.OnClickListener {
     @Override
     public void onClick(View v) {
         if(v == mAustraliaBtn){
-            try {
-                ArrayList<City> australianCities = getClickedCountriesCities("australia.txt");
-                LinkedHashMap<String,Integer> cityRange = setCityRangeMap(australianCities);
-                String randomizedCity = randomizeHomeTown(cityRange);
-                mOceaniaCityTextView.setText(randomizedCity);
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-            mRange= 0;
+            displayRandomCity(mOceaniaCityTextView, "australia.txt");
         }else if(v == mNewZealandBtn){
-            try {
-                ArrayList<City> nzCities = getClickedCountriesCities("new-zealand.txt");
-                LinkedHashMap<String,Integer> cityRange = setCityRangeMap(nzCities);
-                String randomizedCity = randomizeHomeTown(cityRange);
-                mOceaniaCityTextView.setText(randomizedCity);
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-            mRange= 0;
+            displayRandomCity(mOceaniaCityTextView, "new-zealand.txt");
         }
     }
 }

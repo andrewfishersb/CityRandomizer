@@ -3,6 +3,7 @@ package fisher.hometown;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.widget.TextView;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -87,11 +88,20 @@ public class BaseActivity extends AppCompatActivity {
     }
 
 
+    public void displayRandomCity(TextView cityTextView, String filename){
 
+        try {
+            ArrayList<City> cities = getClickedCountriesCities(filename);
+            LinkedHashMap<String,Integer> cityRange = setCityRangeMap(cities);
+            String randomizedCity = randomizeHomeTown(cityRange);
+            cityTextView.setText(randomizedCity);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
+        mRange= 0;
 
-
-
+    }
 
 
 }
